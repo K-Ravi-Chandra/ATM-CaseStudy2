@@ -55,23 +55,23 @@ If you had selected customer:
 
 As we do not know the details of the customers, I took 10 different customer accounts,with their separateName,BankBalance,AccountNumber and PIN as:
 
-Customer Name      Account Number     PIN Number          Bank Balance
+Customer Name  ,    Account Number   ,  PIN Number      ,    Bank Balance
 
-A                     10248             25431                 10,000
+A        ,             10248       ,     25431            ,     10,000
 
-B                     62493             19634                 20,000
+B             ,        62493        ,    19634           ,      20,000
 
-C                     29142             76428                 30,000
+C            ,         29142         ,   76428          ,       30,000
 
-D                     86428             94362                 40,000
+D           ,          86428          ,  94362         ,        40,000
 
-E                     73724             29138                 50,000
+E          ,           73724           , 29138        ,         50,000
 
-F                     54218             83057                 60,000
+F              ,       54218            ,83057       ,          60,000
 
-G                     43196             69243                 70,000 
+G               ,      43196          ,   69243     ,            70,000 
 
-H                     94823             31972                 80,000
+H                ,     94823          ,   31972    ,             80,000
 
 I                     37264             45928                 90,000
 
