@@ -73,9 +73,9 @@ G               ,      43196          ,   69243     ,            70,000
 
 H                ,     94823          ,   31972    ,             80,000
 
-I                     37264             45928                 90,000
+I            ,         37264       ,      45928      ,           90,000
 
-J                     81293             56244                 1,00,000
+J              ,       81293        ,     56244     ,            1,00,000
 
  
 So if you have chosen a customer then, enter these respective 5 digit Account Numbers and Account Passwords to flow through the positive cases and any random values for negative cases.
